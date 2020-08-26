@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LockTableView-LockTableViewProject.iml" filepath="$PROJECT_DIR$/.idea/modules/LockTableView-LockTableViewProject.iml" group="LockTableViewProject" />
       <module fileurl="file://$PROJECT_DIR$/LockTableViewProject.iml" filepath="$PROJECT_DIR$/LockTableViewProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LockTableViewProject-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LockTableViewProject-app.iml" group="LockTableViewProject/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/locktableview/com.github.czhongm-locktableview.iml" filepath="$PROJECT_DIR$/.idea/modules/locktableview/com.github.czhongm-locktableview.iml" group="LockTableViewProject/locktableview" />
       <module fileurl="file://$PROJECT_DIR$/locktableview/locktableview.iml" filepath="$PROJECT_DIR$/locktableview/locktableview.iml" />
     </modules>
   </component>
